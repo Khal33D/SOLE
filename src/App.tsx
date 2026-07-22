@@ -6,7 +6,7 @@ import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { CategoryStrip } from './components/CategoryStrip';
 import { ProductGrid } from './components/ProductGrid';
-import { Lookbook } from './components/Lookbook';
+import { Lookbook } from './components/LookBook';
 import { FeatureStrip } from './components/FeatureStrip';
 import { Footer } from './components/Footer';
 import { QuickView } from './components/QuickView';
